@@ -1,0 +1,4 @@
+.eggs/
+Products.LDAPUserFolder.egg-info/
+*.pyc
+
